@@ -1,4 +1,6 @@
 ***🌼 Hoppy Hunt – 🐭
+
+
 Welcome to Hoppy Hunt, a magical classic Whack-a-Mole game! Tap into your reflexes and chase down mischievous little moles (a.k.a Mickey-style mice 🐭) before time runs out. Sparkles, sounds, and bouncy animations included! ✨
 
 🎮 Gameplay Features
@@ -13,6 +15,7 @@ Welcome to Hoppy Hunt, a magical classic Whack-a-Mole game! Tap into your reflex
 🧠 Keyboard accessible – Whack moles using Enter or Space
 
 🛠️ Built With
+
 HTML5 – Semantic and accessible markup
 
 CSS3 – Stylish gradients, animations, and transitions
@@ -22,11 +25,13 @@ JavaScript – Game logic and interactivity
 ARIA attributes – Accessibility features for keyboard & screen reader users
 
 📁 File Structure
+
 plaintext
 Copy
 Edit
 
 📂 project-root
+
 ├── index.html       # Main HTML structure
 
 ├── styles.css       # All the styling and animations
@@ -34,6 +39,7 @@ Edit
 ├── script.js        # Game logic and event handling
 
 🚀 Getting Started
+
 Clone or download this repository.
 
 Make sure all files (index.html, styles.css, script.js) are in the same folder.
@@ -50,6 +56,7 @@ Click "Start the Magic!" and start whacking! 🎯
 
 
 ♿ Accessibility Features
+
 All interactive elements are keyboard operable.
 
 Screen readers can announce mole appearances using ARIA labels.
@@ -60,6 +67,7 @@ Focus indicators and modal behavior follow accessibility best practices.
 Inspired by the magic of Disney and childhood joy, Hoppy Hunt aims to bring a smile to your face through color, sound, and fun gameplay.
 
 🙌 Acknowledgments
+
 Sound: Freesound.org
 
 Fonts: Google Fonts – Baloo 2, Luckiest Guy
