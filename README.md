@@ -1,4 +1,4 @@
-🌼 Hoppy Hunt – 🐭
+***🌼 Hoppy Hunt – 🐭
 Welcome to Hoppy Hunt, a magical classic Whack-a-Mole game! Tap into your reflexes and chase down mischievous little moles (a.k.a Mickey-style mice 🐭) before time runs out. Sparkles, sounds, and bouncy animations included! ✨
 
 🎮 Gameplay Features
@@ -25,10 +25,14 @@ ARIA attributes – Accessibility features for keyboard & screen reader users
 plaintext
 Copy
 Edit
+
 📂 project-root
 ├── index.html       # Main HTML structure
+
 ├── styles.css       # All the styling and animations
+
 ├── script.js        # Game logic and event handling
+
 🚀 Getting Started
 Clone or download this repository.
 
@@ -63,5 +67,7 @@ Fonts: Google Fonts – Baloo 2, Luckiest Guy
 Emojis: Unicode standard 🐭✨
 
 📬 Contact
+
 Made with ❤️ by [Harshitha Vodapally]
+
 Reach out via [22wh1a6602@bvrithyderabad.edu.in] [if desired]
