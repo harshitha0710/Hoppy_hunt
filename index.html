@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Disney World Whack-a-Mole 🐹</title>
+  <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Baloo+2&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🌼Hoppy Hunt🌼</h1>
+    <button id="startBtn">Start the Magic!</button>
+    <div class="info-panel">
+      <div class="scoreboard">Score: <span id="score">0</span></div>
+      <div class="timer">Time Left: <span id="time">30</span>s</div>
+    </div>
+    <div id="gameGrid" aria-label="Whack-a-mole game grid" role="grid" tabindex="0">
+      <!-- Holes dynamically generated here -->
+    </div>
+  </div>
+
+  <div class="modal" id="rulesModal">
+    <div class="modal-content">
+      <h2>How to Play</h2>
+      <ul>
+        <li>Whack the cute moles 🐹 popping up!</li>
+        <li>Score as many points as you can in 30 seconds.</li>
+        <li>Enjoy magical bouncy animations and sounds!</li>
+      </ul>
+      <button id="closeRules">Let’s Go!</button>
+    </div>
+  </div>
+
+  <audio id="whackSound" src="https://freesound.org/data/previews/256/256113_3263906-lq.mp3" preload="auto"></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
