@@ -56,24 +56,7 @@ Click "Start the Magic!" and start whacking! 🎯
 
 
 
-♿ Accessibility Features
 
-All interactive elements are keyboard operable.
-
-Screen readers can announce mole appearances using ARIA labels.
-
-Focus indicators and modal behavior follow accessibility best practices.
-
-🧙‍♀️ Inspiration
-Inspired by the magic of Disney and childhood joy, Hoppy Hunt aims to bring a smile to your face through color, sound, and fun gameplay.
-
-🙌 Acknowledgments
-
-Sound: Freesound.org
-
-Fonts: Google Fonts – Baloo 2, Luckiest Guy
-
-Emojis: Unicode standard 🐭✨
 
 📬 Contact
 
