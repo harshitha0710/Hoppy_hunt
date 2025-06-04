@@ -4,6 +4,7 @@
 Welcome to Hoppy Hunt, a magical classic Whack-a-Mole game! Tap into your reflexes and chase down mischievous little moles (a.k.a Mickey-style mice 🐭) before time runs out. Sparkles, sounds, and bouncy animations included! ✨
 
 🎮 Gameplay Features
+
 ⏱️ 30-second time limit – Race against the clock!
 
 🐭 Mickey Mouse-style moles – Whack 'em when they pop up!
